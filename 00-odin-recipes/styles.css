@@ -1,0 +1,34 @@
+#page{
+    background-color: rgb(212, 246, 87);
+    font-family: "Lucida Console";
+}
+
+.title{
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+.container{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(101, 21, 180);
+}
+
+.odin{
+    width: 10%;
+}
